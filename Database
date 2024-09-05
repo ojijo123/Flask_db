@@ -36,7 +36,7 @@ posts = [
     {
         'author': 'Erick Ojijo',
         'title': 'stock',
-        'content': 'Flow of stock',
+        'content': 'stock records',
         'date_posted': 'September 03, 2024'
     },
     {
