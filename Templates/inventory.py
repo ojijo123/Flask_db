@@ -9,7 +9,7 @@ posts = [
         'date_posted': 'September 03, 2024'
     },
     {
-        'author': 'Erick Ojijp',
+        'author': 'Erick Ojijo',
         'title': 'Finance',
         'content': 'Financial records',
         'date_posted': 'September 03, 2024'

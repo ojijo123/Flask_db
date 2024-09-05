@@ -34,15 +34,15 @@ class Post(db.Model):
 
 posts = [
     {
-        'author': 'Erick',
-        'title': 'First post',
-        'content': 'First post content',
+        'author': 'Erick Ojijo',
+        'title': 'stock',
+        'content': 'stock records',
         'date_posted': 'September 04, 2024'
     },
     {
         'author': 'Erick Ojijo',
-        'title': 'Second post',
-        'content': 'Second content posted by Erick',
+        'title': 'finance',
+        'content': 'financial records',
         'date_posted': 'September 04, 2024'
     }
 ]
